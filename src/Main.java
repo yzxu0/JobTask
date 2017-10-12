@@ -12,7 +12,7 @@ public class Main {
     }
 
     //------------------------------------------
-    // 数组（长度1000非连续数组）生成测试方法
+    // 数组（长度1000，有序，非连续数组）生成测试方法
     //------------------------------------------
     private static void InvokWeek2() {
         Calendar call1 = Calendar.getInstance();

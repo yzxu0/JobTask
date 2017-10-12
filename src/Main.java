@@ -11,6 +11,9 @@ public class Main {
         System.out.println("Hello World!");
     }
 
+    //------------------------------------------
+    // 数组（长度1000非连续数组）生成测试方法
+    //------------------------------------------
     private static void InvokWeek2() {
         Calendar call1 = Calendar.getInstance();
 
